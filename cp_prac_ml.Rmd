@@ -8,7 +8,7 @@ output: html_document
 ```{r, echo=FALSE}
 # Change working directory
 dirBase <- "/home/joe/Documents/01-coursera/01-data-science"
-dirWorking <- "/08-practical-ml"
+dirWorking <- "/08-prac-ml-course-prj"
 setwd(file.path(dirBase, dirWorking))
 rm(list = ls())
 # par(mfrow = c(1,2))
